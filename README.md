@@ -1,16 +1,12 @@
-# device_info
+# 📸 Flutter Image Picker App
 
-A new Flutter project.
+This Flutter application allows users to **select multiple images** from their device’s gallery and display them in a `ListView`.
 
-## Getting Started
+## 🚀 Features
+✅ Pick multiple images from the device gallery  
+✅ Display selected images in a scrollable list  
+✅ Handle gallery permission requests  
+✅ Open app settings if permission is denied  
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Demo
+https://github.com/user-attachments/assets/0eba4e64-2e95-4d7b-8aeb-aaa5897510e0
